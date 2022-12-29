@@ -1,3 +1,3 @@
-# turkish-syllables
+# turkish phonology stuff
 
-Turkish syllable separator with little effort.
+* Syllable separator with little effort.
